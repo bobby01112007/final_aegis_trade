@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: AegisTrade",
+  "description": "AI-powered global trade compliance platform with a cinematic visual identity, glassmorphic navigation, and intelligent document validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
